@@ -1,19 +1,4 @@
-# Light Projects
-This readme file contains info about this and more.
-
-Project List:
-
-LightOS
-
-LightPaint
-
-LightPad
-
-LightBrowse
-
-More coming soon...
-
-Light Projects is a repository for my Light-named projects.
+# LightOS
 
 LightOS is a OS made in VB trying to recreate the Windows 8 Metro UI.
 
