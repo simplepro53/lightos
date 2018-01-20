@@ -1,0 +1,14 @@
+c:\users\lukas\documents\visual studio 2015\Projects\LightOS\LightOS\bin\Debug\LightOS.exe.config
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\bin\Debug\LightOS.exe
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\bin\Debug\LightOS.pdb
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\bin\Debug\LightOS.xml
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.vbprojResolveAssemblyReference.cache
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.Form1.resources
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.Form2.resources
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.Resources.resources
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.vbproj.GenerateResource.Cache
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.exe
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.xml
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.pdb
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.Form3.resources
+C:\Users\Lukas\documents\visual studio 2015\Projects\LightOS\LightOS\obj\Debug\LightOS.brwsysetup.resources
